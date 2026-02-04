@@ -1,33 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Privacy Policy - GPS Camera App</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        body {
-            font-family: Arial, Helvetica, sans-serif;
-            line-height: 1.6;
-            padding: 20px;
-            max-width: 900px;
-            margin: auto;
-            color: #333;
-        }
-        h1, h2 {
-            color: #1a73e8;
-        }
-        ul {
-            margin-left: 20px;
-        }
-        footer {
-            margin-top: 40px;
-            font-size: 14px;
-            color: #666;
-        }
-    </style>
-</head>
-<body>
-
 <h1>Privacy Policy</h1>
 <p><strong>Last updated:</strong> February 2026</p>
 
@@ -85,6 +55,7 @@ We do not have access to your data.
     <li><strong>Camera Permission:</strong> Required to capture photos and videos.</li>
     <li><strong>Location Permission:</strong> Required to embed GPS information in watermark.</li>
     <li><strong>Storage / Media Permission:</strong> Required to save media files.</li>
+    <li><strong>Microphone Permission:</strong> Requird only for Video Recording.</li>
 </ul>
 
 <h2>7. Children’s Privacy</h2>
