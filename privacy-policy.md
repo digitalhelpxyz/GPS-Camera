@@ -104,7 +104,7 @@ Any changes will be reflected on this page with an updated date.
 If you have any questions or concerns about this Privacy Policy, feel free to contact us:
 </p>
 <p>
-<strong>Email:</strong> your-email@example.com
+<strong>Email:</strong> digitalhelpxyz@gmail.com
 </p>
 
 <footer>
